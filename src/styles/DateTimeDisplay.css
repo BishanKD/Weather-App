@@ -1,0 +1,22 @@
+ .date-time-display {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+  
+.date-time-display .date {
+  font-size: 1.2em;
+  color: #343a40;
+  margin: 0 0 5px 0;
+}
+  
+.date-time-display .time {
+  font-size: 2em;
+  font-weight: bold;
+  color: #007bff;
+  margin: 0;
+} 
+
